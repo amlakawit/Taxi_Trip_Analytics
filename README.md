@@ -62,32 +62,5 @@ The project works with taxi trip data containing:
 - **Geographic Analysis**: Identify popular routes and high-demand zones
 - **Performance Metrics**: Calculate operational KPIs and efficiency metrics
 
-## Technologies Used
 
-- **Databricks**: Unified analytics platform
-- **Apache Spark**: Distributed data processing
-- **Delta Lake**: Reliable data lake storage
-- **Python/PySpark**: Primary programming languages
-- **SQL**: Data querying and analysis
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-For questions or support, please open an issue in this repository.
-
-## Acknowledgments
-
-- Built using Databricks platform capabilities
-- Taxi trip data analysis methodologies
 
